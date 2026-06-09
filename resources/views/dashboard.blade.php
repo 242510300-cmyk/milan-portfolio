@@ -740,6 +740,7 @@
                         <div class="project-links">
                             <a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
                             <a href="https://google.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+                            <a href="MASUKKAN_LINK_CANVA_POS_DISINI" target="_blank"><i class="fa-solid fa-file-image"></i> Canva</a>
                         </div>
                     </div>
                 </div>
@@ -754,6 +755,7 @@
                         <div class="project-links">
                             <a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
                             <a href="https://google.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
+                            <a href="https://canva.link/f3izigmvwmc5mf2" target="_blank"><i class="fa-solid fa-file-image"></i> Canva</a>
                         </div>
                     </div>
                 </div>
